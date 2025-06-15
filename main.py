@@ -25,6 +25,7 @@ tim.hideturtle()
 tim.forward(300)
 tim.setheading(0)
 
+
 for i in range(1,101):
 
     tim.dot(20, (random.choice(color)))
